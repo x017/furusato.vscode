@@ -1,0 +1,34 @@
+{
+  "name": "furusato",
+  "displayName": "Furusato",
+  "description": "A dark, modern VS Code theme with soft blues, greys, and subtle contrasts",
+  "version": "1.0.0",
+  "publisher": "x017",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Furusato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/furusato-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x017/furusato-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "furusato",
+    "neovim",
+    "minimal"
+  ],
+  "license": "MIT"
+}
