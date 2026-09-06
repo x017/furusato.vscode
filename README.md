@@ -1,6 +1,6 @@
 # Furusato for VS Code
 
-> **"Furusato" (ふるさと)** — *a cozy place you return to.*
+> **"Furusato" (ふるさと)** — _a cozy place you return to._
 
 A dark, modern VS Code theme with soft blues, greys, and subtle contrasts. Ported from the Neovim colorscheme [furusato.nvim](https://github.com/x017/furusato.nvim).
 
@@ -12,6 +12,13 @@ A dark, modern VS Code theme with soft blues, greys, and subtle contrasts. Porte
 - Minimal dark background
 - Syntax highlighting for 30+ languages
 - Editor UI theming (sidebar, status bar, tabs, terminal, etc.)
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/1.jpg" width="45%" alt="Furusato theme screenshot 1" />
+  <img src="screenshots/2.jpg" width="45%" alt="Furusato theme screenshot 2" />
+</p>
 
 ## Installation
 
